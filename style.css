@@ -1,0 +1,30 @@
+h2 {
+    text-align: center;
+    color: rgb(103, 36, 141);
+}
+
+body {
+    background-color: rgb(243, 232, 248);
+}
+
+p {
+    font-style: italic;
+}
+
+ol {
+    color: brown;
+}
+
+ul {
+    color: blue;
+}
+
+img {
+    width: 228px;
+    height: 100px;
+    margin: 30px;
+}
+
+a {
+    color: rgb(88, 7, 61);
+}
